@@ -15,7 +15,7 @@ This project aims to be an starting project for every initiative around Builder.
 
 - Clone this repo
 - run ```npm i``` command
-- Edit your environment variables. You can find them in .env file.
+- Create your environment variables file. Create a .env file in the root with the folowing values.
   - **NEXT_PUBLIC_BUILDER_PUBLIC_KEY** - This is obtained through the Builder.io admin panel.
   - **REVALIDATE_SECRET** - This is a custom generated key for granting access to the revalidate endpoint. Use your favourite password generator or use your own one.
 - Go to Builder.io and create the first page (https://www.builder.io/c/docs/create-page)
