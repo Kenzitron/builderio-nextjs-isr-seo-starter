@@ -1,6 +1,6 @@
 # Builder.IO & NextJs starter with ISR & SEO optimization
 
-This project aims to be an starting project for every initiative around Builder.io and NextJS that requires ISR capabilities and SEO optimizations like having a dynamic sitemap.xml and few other tricks.
+This project aims to be an starting project for every initiative around [Builder.io](https://builder.io) and [Next.js](https://nextjs.org) that requires ISR capabilities and SEO optimizations like having a dynamic sitemap.xml and few other tricks.
 
 If you want to see a Live site using this starter go to [Kenzilab.com](https://kenzilab.com)
 
@@ -29,7 +29,7 @@ If you want to see a Live site using this starter go to [Kenzilab.com](https://k
 It is as easy as running ```npm run dev``` and open a web browser in *http://localhost:3000*
 
 # Deploy on Vercel
-I recommend use Vercel. This repo also has Vercel Analytics npm dependency so it is included out of the box.
+I recommend use [Vercel](https://vercel.com). This repo also has Vercel Analytics npm dependency so it is included out of the box.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FKenzitron%2Fbuilderio-nextjs-isr-seo-starter)
 
