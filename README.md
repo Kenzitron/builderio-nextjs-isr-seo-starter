@@ -2,16 +2,15 @@
 
 This project aims to be an starting project for every initiative around Builder.io and NextJS that requires ISR capabilities and SEO optimizations like having a dynamic sitemap.xml and few other tricks.
 
-If you want to see a Live using this starter go to [Kenzilab.com](https://kenzilab.com)
-
+If you want to see a Live site using this starter go to [Kenzilab.com](https://kenzilab.com)
 
 # Features
 - Typescript support ❤️
 - ISR for every Page generated.
-- Sitemap.xml geenrated in SSR connected with Builder.io
+- Sitemap.xml generated in SSR connected with Builder.io
 - NextSeo package added.
 - Robots.txt
-- Perfect Lighthose Score 100 / 100 / 100 / 100 by default.
+- Perfect Lighthouse Score 100 / 100 / 100 / 100 by default.
 
 
 # Initial setup
@@ -40,3 +39,9 @@ You will have to configure the environment variables in the admin panel. Name th
 I will refer you to official NextJs documentation (https://nextjs.org/docs/deployment)
 
 Although there are many choices out there I recommend explore Cloudflare Pages. It is easy, powerfull, costless and very straight forward.
+
+
+# Website using this project
+- [Kenzilab.com](https://kenzilab.com)
+
+If you want to list here your project you can open a PR with your repository and url.
