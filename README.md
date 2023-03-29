@@ -2,6 +2,9 @@
 
 This project aims to be an starting project for every initiative around Builder.io and NextJS that requires ISR capabilities and SEO optimizations like having a dynamic sitemap.xml and few other tricks.
 
+If you want to see a Live using this starter go to [Kenzilab.com](https://kenzilab.com)
+
+
 # Features
 - Typescript support ❤️
 - ISR for every Page generated.
