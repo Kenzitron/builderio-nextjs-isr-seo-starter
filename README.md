@@ -36,12 +36,12 @@ I recommend use [Vercel](https://vercel.com). This repo also has Vercel Analytic
 You will have to configure the environment variables in the admin panel. Name them as they are in the **.env** file.
 
 # Deploy elsewhere
-I will refer you to official NextJs documentation (https://nextjs.org/docs/deployment)
+I refer you to official NextJs documentation (https://nextjs.org/docs/deployment)
 
-Although there are many choices out there I recommend explore Cloudflare Pages. It is easy, powerfull, costless and very straight forward.
+Although there are many choices out there I recommend explore Cloudflare Pages. It is easy, powerful, costless and very straight forward.
 
 
-# Website using this project
+# Websites using this project
 - [Kenzilab.com](https://kenzilab.com)
 
-If you want to list here your project you can open a PR with your repository and url.
+If you want to list here your project you can open a PR with your url.
