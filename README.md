@@ -17,11 +17,11 @@ If you want to see a Live site using this starter go to [Kenzilab.com](https://k
 
 - Clone this repo
 - run ```npm i``` command
-- Create your environment variables file. Create a .env file in the root with the folowing values.
+- Create your environment variables file. Create a .env file in the root with the following values.
   - **NEXT_PUBLIC_BUILDER_PUBLIC_KEY** - This is obtained through the Builder.io admin panel.
-  - **REVALIDATE_SECRET** - This is a custom generated key for granting access to the revalidate endpoint. Use your favourite password generator or use your own one.
+  - **REVALIDATE_SECRET** - This is a custom generated key for granting access to the revalidate endpoint. Use your favorite password generator or use your own one.
 - Go to Builder.io and create the first page (https://www.builder.io/c/docs/create-page)
-- Enable Builderio Webhook for pages (https://www.builder.io/c/docs/webhooks) make sure you point it to /api/revalidate?secret={REVALIDATE_SECRET}
+- Enable Builder.io Webhook for pages (https://www.builder.io/c/docs/webhooks) make sure you point it to /api/revalidate?secret={REVALIDATE_SECRET}
 - Adjust the values you want to use for SEO. You can edit them in */src/config/seo*
 
 
