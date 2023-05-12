@@ -16,7 +16,7 @@ If you want to see a Live site using this starter go to [Kenzilab.com](https://k
 # Initial setup
 
 - Clone this repo
-- run ```npm i``` command
+- Run ```npm i``` command
 - Create your environment variables file. Create a .env file in the root with the following values.
   - **NEXT_PUBLIC_BUILDER_PUBLIC_KEY** - This is obtained through the Builder.io admin panel.
   - **REVALIDATE_SECRET** - This is a custom generated key for granting access to the revalidate endpoint. Use your favorite password generator or use your own one.
